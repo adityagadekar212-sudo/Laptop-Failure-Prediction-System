@@ -1,0 +1,6 @@
+{
+  "name": "LAPTOPGUARD AI — Laptop Failure Prediction System",
+  "description": "Laptop Health Monitoring & Failure Prediction System - A clean hardware diagnostic and predictive failure detection web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
